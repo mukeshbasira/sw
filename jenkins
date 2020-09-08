@@ -18,6 +18,7 @@ dotnet build
  			// Shell build step
 sh """ 
 export PATH=/usr/local/share/dotnet:$PATH
+cd firstcore
 dotnet run
 
  """ 
@@ -26,7 +27,7 @@ dotnet run
  			// Shell build step
 sh """ 
 export PATH=/usr/local/share/dotnet:$PATH
-cd firstcore
+
 dotnet publish 
  """ 
 	}
