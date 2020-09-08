@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mukeshbasira/Documents/sw/firslib/firslib.csproj": {}
+  },
+  "projects": {
+    "/Users/mukeshbasira/Documents/sw/firslib/firslib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mukeshbasira/Documents/sw/firslib/firslib.csproj",
+        "projectName": "firslib",
+        "projectPath": "/Users/mukeshbasira/Documents/sw/firslib/firslib.csproj",
+        "packagesPath": "/Users/mukeshbasira/.nuget/packages/",
+        "outputPath": "/Users/mukeshbasira/Documents/sw/firslib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mukeshbasira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.TestPlatform.TestHost": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/Users/mukeshbasira/Documents/sw/firslib/bin/Debug/netstandard2.0/firslib.deps.json
+/Users/mukeshbasira/Documents/sw/firslib/bin/Debug/netstandard2.0/firslib.dll
+/Users/mukeshbasira/Documents/sw/firslib/bin/Debug/netstandard2.0/firslib.pdb
+/Users/mukeshbasira/Documents/sw/firslib/obj/Debug/netstandard2.0/firslib.csprojAssemblyReference.cache
+/Users/mukeshbasira/Documents/sw/firslib/obj/Debug/netstandard2.0/firslib.AssemblyInfoInputs.cache
+/Users/mukeshbasira/Documents/sw/firslib/obj/Debug/netstandard2.0/firslib.AssemblyInfo.cs
+/Users/mukeshbasira/Documents/sw/firslib/obj/Debug/netstandard2.0/firslib.csproj.CoreCompileInputs.cache
+/Users/mukeshbasira/Documents/sw/firslib/obj/Debug/netstandard2.0/firslib.dll
+/Users/mukeshbasira/Documents/sw/firslib/obj/Debug/netstandard2.0/firslib.pdb
+/Users/mukeshbasira/Documents/sw/firslib/bin/Debug/netstandard2.0/xunit.runner.visualstudio.testadapter.dll
+/Users/mukeshbasira/Documents/sw/firslib/bin/Debug/netstandard2.0/xunit.runner.reporters.net452.dll
+/Users/mukeshbasira/Documents/sw/firslib/bin/Debug/netstandard2.0/xunit.runner.utility.net452.dll
+/Users/mukeshbasira/Documents/sw/firslib/bin/Debug/netstandard2.0/xunit.abstractions.dll
