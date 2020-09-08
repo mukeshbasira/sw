@@ -6,11 +6,26 @@ node () {
 	stage ('.nettest - Checkout') {
  	 checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '3a477194-344f-49bc-bc09-89d6eefd6fc4', url: 'https://github.com/mukeshbasira/sw']]]) 
 	}
-	stage ('.nettest - Build') {
+	stage ('build') {
  			// Shell build step
 sh """ 
 export PATH=/usr/local/share/dotnet:$PATH
 dotnet build
+ """ 
+	}
+
+	stage ('run') {
+ 			// Shell build step
+sh """ 
+export PATH=/usr/local/share/dotnet:$PATH
+dotnet run
+
+ """ 
+	}
+		stage ('publish') {
+ 			// Shell build step
+sh """ 
+export PATH=/usr/local/share/dotnet:$PATH
 cd firstcore
 dotnet publish 
  """ 
