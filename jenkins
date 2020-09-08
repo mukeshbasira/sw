@@ -13,6 +13,13 @@ export PATH=/usr/local/share/dotnet:$PATH
 dotnet build
  """ 
 	}
+		stage ('test') {
+ 			// Shell build step
+sh """ 
+export PATH=/usr/local/share/dotnet:$PATH
+dotnet test
+ """ 
+	}
 
 	stage ('run') {
  			// Shell build step
