@@ -19,18 +19,18 @@ namespace firstcore
         //Then
         }
 
-         [Fact]
-        public void sub()
-        {
-        //Given
-        var p = new operation();
+        //  [Fact]
+        // public void sub()
+        // {
+        // //Given
+        // var p = new operation();
        
-        Assert.Equal( p.subtraction(5,6),-1);
+        // Assert.Equal( p.subtraction(5,6),-1);
        
-        //When
+        // //When
         
-        //Then
-        }
+        // //Then
+        // }
         
         
     }
