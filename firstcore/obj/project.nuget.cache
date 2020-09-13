@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8jDR8OfPwIRbAyKwur163KpeJbGddgFa4hXjwRsy6GI8AY4S1QIzwMRSSXCLddA3T6oc21YjvaED3f/cocaGYQ==",
+  "dgSpecHash": "+iO22DEE52f/7oftBJ99mHa1cYZHtBzDYdlEzAvpHiTp9e9OYdDMuLuy/G8mP0WnGrEidHoTt4d4qKcF20kmGQ==",
   "success": true,
   "projectFilePath": "/Users/mukeshbasira/Documents/sw/firstcore/firstcore.csproj",
   "expectedPackageFiles": [
+    "/Users/mukeshbasira/.nuget/packages/coverlet.msbuild/2.9.0/coverlet.msbuild.2.9.0.nupkg.sha512",
     "/Users/mukeshbasira/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/mukeshbasira/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/mukeshbasira/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
@@ -13,6 +14,7 @@
     "/Users/mukeshbasira/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/Users/mukeshbasira/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
     "/Users/mukeshbasira/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
+    "/Users/mukeshbasira/.nuget/packages/opencover/4.7.922/opencover.4.7.922.nupkg.sha512",
     "/Users/mukeshbasira/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/mukeshbasira/.nuget/packages/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/mukeshbasira/.nuget/packages/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

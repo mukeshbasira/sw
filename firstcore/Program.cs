@@ -14,3 +14,4 @@ namespace firstcore
         }
     }
 }
+// dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura

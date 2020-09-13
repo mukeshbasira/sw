@@ -109,6 +109,16 @@
               "target": "Package",
               "version": "[16.7.1, )"
             },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.922, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
             "xunit": {
               "target": "Package",
               "version": "[2.4.1, )"
